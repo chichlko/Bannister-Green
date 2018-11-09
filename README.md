@@ -1,5 +1,5 @@
 ### Environment Capture
-This represents initial forays into 'real-time' environment capture, beginning with audio. First things first, to get going on this I stood on the shoulders of Mark Jay:<br>
+This represents my initial forays into 'real-time' environment capture, beginning with audio. First things first, to get going on this I stood on the shoulders of Mark Jay:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/markjay4k/Audio-Spectrum-Analyzer-in-Python/blob/master/audio_spectrumQT.py<p>
 He also provides some great youtube presentations at:
 <ul><li>https://www.youtube.com/watch?v=AShHJdSIxkY</li>
